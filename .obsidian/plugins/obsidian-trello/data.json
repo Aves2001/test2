@@ -1,0 +1,34 @@
+{
+  "settings": {
+    "token": "ATTA7924647209f0d2697f4bf1d3f1a692cdf39c869dadf25581b20550d1868d701275F3DD18",
+    "customUi": {
+      "global": {
+        "checklists": true,
+        "comments": true,
+        "description": true,
+        "labels": true,
+        "list": true,
+        "title": true
+      }
+    },
+    "selectedBoards": [
+      {
+        "id": "645eb6bb4edc17b81ac0b47c",
+        "name": "Проект",
+        "url": "https://trello.com/b/yCc8I3oh/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82"
+      }
+    ],
+    "openToSide": "right",
+    "newCardPosition": "top",
+    "movedCardPosition": "top",
+    "verboseLogging": false
+  },
+  "version": "1.6.0",
+  "firstRun": false,
+  "connectedCards": {
+    "dcrNG9ZRvt3t4GIUz8PHa": {
+      "cardId": "64734e7c311e2d63b07b7311",
+      "boardId": "645eb6bb4edc17b81ac0b47c"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "folder": "Щоденник",
+  "autorun": true,
+  "template": "Шаблони/{title}"
+}

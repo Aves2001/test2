@@ -1,0 +1,9 @@
+{
+  "attachmentFolderPath": "Файли",
+  "promptDelete": false,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "uk"
+  ],
+  "alwaysUpdateLinks": true
+}
